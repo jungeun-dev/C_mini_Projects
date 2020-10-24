@@ -1,2 +1,2 @@
-# C_Tetris_game
-C언어로 작성한 Tetris 코드
+# C_mini_Project
+C언어로 작성한 프로젝트들
